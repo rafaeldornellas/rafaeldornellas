@@ -14,7 +14,6 @@ Email: rafael.andrade42@fatec.sp.gov.br
 Estudo e aprendizagem.
 - 🌱 Aprendendo no momento:
 Python, Java, PHP.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Como me Contatar:
 Discord: oddeyestafareu
 Email: rafael.andrade42@fatec.sp.gov.br
