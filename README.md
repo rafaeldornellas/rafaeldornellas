@@ -5,7 +5,7 @@ Studying and learning.
 - 🌱 I’m currently learning:
 Python, Java, PHP.
 - 📫 How to reach me:
-Discord: oddeyestafareu
+Discord: littlerafael
 Email: rafael.andrade42@fatec.sp.gov.br
 
 - 👋 Eae, me chamo @rafaeldornellas
@@ -15,5 +15,5 @@ Estudo e aprendizagem.
 - 🌱 Aprendendo no momento:
 Python, Java, PHP.
 - 📫 Como me Contatar:
-Discord: oddeyestafareu
+Discord: littlerafael
 Email: rafael.andrade42@fatec.sp.gov.br
